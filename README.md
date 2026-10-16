@@ -15,7 +15,7 @@ Choose the ZIP for your computer, or download **All-Platforms** to get every ver
 
 Godot is bundled. No installer or separate engine download is required. Windows and Linux launchers use Vulkan and include an OpenGL compatibility option. The Mac app uses Metal.
 
-WASD moves, the mouse aims with inverted Y, Shift sprints, and left click shoots. Esc releases the pointer. Press E beside the reactor to disarm it; R restarts after death.
+WASD moves, the mouse aims with inverted Y, Shift sprints, Space jumps (grounded single jump), and left click shoots. Esc releases the pointer. Press E beside the reactor to disarm it; R restarts after death.
 
 These are preview releases. Windows has been tested using Proton on Linux; native Windows testing is pending. Earlier Mac builds were tested on an M5 MacBook Air; Intel Mac runtime testing remains pending. Read each release's notes for its exact validation status. Windows builds are unsigned. Mac builds are ad-hoc signed and not Apple-notarized; the included README explains first launch.
 
